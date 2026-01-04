@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+/* HEADER */
+header {
+    background: #ff7043;
+    color: white;
+    padding: 40px 20px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 25px;
+    background: white;
+    color: #ff7043;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* SECTIONS */
+section {
+    padding: 30px 20px;
+}
+
+/* MENU */
+.menu-item {
+    background: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+/* ORDER BUTTONS */
+.order-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 12px;
+    width: 220px;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.snapchat { background: #fccf19; }
+.instagram { background: #e23744; }
+.whatsapp { background: #25D366; }
+
+/* FOOTER */
+footer {
+    background: #333;
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: #ff7043;
+    text-decoration: none;
+}
